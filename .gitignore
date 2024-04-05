@@ -12,6 +12,10 @@ PostgreSQL_DB
 # Not sure what this is
 .DS_Store
 
+# Config files with sensitive information
+.config/configuration.ini
+configuration.ini
+
 # Distribution / packaging
 .Python
 build/
