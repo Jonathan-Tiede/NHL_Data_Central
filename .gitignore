@@ -13,7 +13,6 @@ PostgreSQL_DB
 .DS_Store
 
 # Config files with sensitive information
-.config/configuration.ini
 configuration.ini
 
 # Distribution / packaging
